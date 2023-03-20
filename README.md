@@ -1,2 +1,2 @@
 # SCIQuestoes
-Questões da prova online do github, para programa de capacitação da SCI
+Questões da prova online para programa de capacitação da SCI.
